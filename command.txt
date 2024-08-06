@@ -1,0 +1,11 @@
+This is one of the file which was created in the local system in  folder named as github2
+
+command used to push the files to git hub which was created in the local system under the folder named as github2:
+    1)cd github2
+    2) git init
+    3)git add .
+    4)git commit -m "anymessage"
+    5)git remote add origin https://github.com/Palani0470/github2.git
+    6)git branch
+    7)git branch -m main
+    8)git push origin main
